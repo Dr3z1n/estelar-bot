@@ -1,21 +1,21 @@
 # Estelar-bot
 Script WhatsApp Bot Multi Device
 
-## NOTE
-This Script is for everyone, not for Sale
+## NOTA
+Este script é para todos, não para venda
 
 <p align="center">
 	<img src="https://telegra.ph/file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Estelar-bot</h1>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+Este é o Script do WhatsApp multi device, trabalhando com [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
+## Meus Projetos
 WhatsApp Bot Multi Device [Dr3z1n/estelar-bot`](https://github.com/Dr3z1n/estelar-bot)
 
 
-## FOR TERMUX/UBUNTU/SSH USER
+## NO TERMUX
 
 ```bash
 apt update && apt upgrade
@@ -27,26 +27,26 @@ cd Estelar-bot
 npm install
 ```
 
-## IF ERROR INSTALL MODULE FOR TERMUX
+## EM CASO DE ERRO, INSTALE O MÓDULO PARA TERMUX
 
 ```bash
 pkg install yarn
 yarn
 ```
 
-## Installing
+## Instalando
 ```bash
 $ node .
 ```
 
 
-## Thanks To
+## Ajudado Por
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
-## Contact Me
+## Contato
 * [`Wangsap`](https://wa.me/556286231599)
 
