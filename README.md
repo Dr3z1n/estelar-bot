@@ -48,5 +48,5 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ## Contato
-* [`Wangsap`](https://wa.me/556286231599)
+* [`Whatsapp`](https://wa.me/556286231599)
 
