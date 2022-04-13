@@ -51,7 +51,7 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Pix
 
-<img src="https://ibb.co/9b23R0b" width="300" >
+<img src="https://imgur.com/a/dD7lYp3" width="300" >
 
 ## Contato
 * [`Whatsapp`](https://wa.me/556286231599)
