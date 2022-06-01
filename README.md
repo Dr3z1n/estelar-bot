@@ -7,7 +7,7 @@ Este script é para todos, não para venda
 <p align="center">
 	<img src="file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">🔥☄️𝙀𝙨𝙩⃟𝙚𝙡𝙖𝙧 𝙊𝙧𝙞⃟𝙤𝙣☄️🔥</h1>
+<h1 align="center">Estelar-orion</h1>
 
 Este é o Script do WhatsApp multi device, trabalhando com [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
