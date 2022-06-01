@@ -5,7 +5,7 @@ Script WhatsApp Bot Multi Device
 Este script é para todos, não para venda
 
 <p align="center">
-	<img src="file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Estelar-orion</h1>
 
