@@ -1,13 +1,13 @@
-# Estelar-bot
+# 🔥☄️𝙀𝙨𝙩⃟𝙚𝙡𝙖𝙧 𝙊𝙧𝙞⃟𝙤𝙣☄️🔥
 Script WhatsApp Bot Multi Device
 
 ## NOTA
 Este script é para todos, não para venda
 
 <p align="center">
-	<img src="https://telegra.ph/file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="file/520a1ade281f066033524.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Estelar-bot</h1>
+<h1 align="center">🔥☄️𝙀𝙨𝙩⃟𝙚𝙡𝙖𝙧 𝙊𝙧𝙞⃟𝙤𝙣☄️🔥</h1>
 
 Este é o Script do WhatsApp multi device, trabalhando com [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -23,8 +23,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/Dr3z1n/estelar-bot
-cd Estelar-bot
-npm install
+cd estelar-bot
+sh install.sh
 ```
 
 ## EM CASO DE ERRO, INSTALE O MÓDULO PARA TERMUX
@@ -34,11 +34,10 @@ pkg install yarn
 yarn
 ```
 
-## Instalando
+## SE O QRCODE NÃO ESTIVER FUNCIONANDO
 ```bash
-$ node .
+sh gerarqr.sh
 ```
-
 
 ## Ajudado Por
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
