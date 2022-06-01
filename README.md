@@ -1,4 +1,4 @@
-# 🔥☄️𝙀𝙨𝙩⃟𝙚𝙡𝙖𝙧 𝙊𝙧𝙞⃟𝙤𝙣☄️🔥
+# Estelar-orion
 Script WhatsApp Bot Multi Device
 
 ## NOTA
