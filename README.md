@@ -46,11 +46,10 @@ sh gerarqr.sh
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Donate
-[Paypal](https://www.paypal.com/donate/?business=9XV28JDZEDNYE&no_recurring=0&item_name=Ol%C3%A1%2C+bom+se+voc%C3%AA+doar+ira+ajudar+muito+o+desenvolvedor+e+apoiar+a+criar+mais+%27Bots%27+obrigado+pelo+donate&currency_code=BRL)
 
 Pix
 
-<img src="https://i.imgur.com/MVHU3HJ.png" width="300" >
+21945122-00ba-465b-8106-f9b966d2660b
 
 ## Contato
 * [`Whatsapp`](https://wa.me/556286231599)
